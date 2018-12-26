@@ -330,3 +330,19 @@ Add the following repeater shortcode wherever you want the testimonial slider
 }
 
  ```
+## Step 4: Add the JS
+ - /_/js/slider.js
+ 
+ ```
+ 
+ $(document).ready(function () {
+  $('.slick').slick({
+    lazyLoad: 'ondemand',
+    slidesToShow: 1,
+    autoplay: 0,
+    dots: true,
+    arrows: false
+  });
+});
+
+ ```
