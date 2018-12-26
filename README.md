@@ -149,7 +149,7 @@ Add the following repeater shortcode wherever you want the testimonial slider
 
 
 ## Step 4: Add the SCSS/CSS
- - /_/js/slider.scss
+ - /_/scss/slider.scss
  
  ```
  @import "../mixins";
