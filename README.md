@@ -3,8 +3,7 @@
 ## Prerequisites
 <ul>
 	<li><a target="_blank" href="https://getbootstrap.com/">Boostrap4</a></li>
-	<li><a target="_blank" href="https://fontawesome.com/">FontAwesome5</a></li>
-	<li><a target="_blank" href="https://cloud.google.com/maps-platform/">Google Maps</a></li>
+
 </ul>
 
 ## Step 1: Add the Form
